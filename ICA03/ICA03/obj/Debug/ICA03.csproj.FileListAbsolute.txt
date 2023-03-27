@@ -1,0 +1,11 @@
+E:\CMPE1666SVN\ICAS\ICA03\ICA03\obj\Debug\ICA03.csproj.AssemblyReference.cache
+E:\CMPE1666SVN\ICAS\ICA03\ICA03\obj\Debug\ICA03.csproj.SuggestedBindingRedirects.cache
+E:\CMPE1666SVN\ICAS\ICA03\ICA03\obj\Debug\ICA03.Form1.resources
+E:\CMPE1666SVN\ICAS\ICA03\ICA03\obj\Debug\ICA03.Properties.Resources.resources
+E:\CMPE1666SVN\ICAS\ICA03\ICA03\obj\Debug\ICA03.csproj.GenerateResource.cache
+E:\CMPE1666SVN\ICAS\ICA03\ICA03\obj\Debug\ICA03.csproj.CoreCompileInputs.cache
+E:\CMPE1666SVN\ICAS\ICA03\ICA03\bin\Debug\ICA03.exe.config
+E:\CMPE1666SVN\ICAS\ICA03\ICA03\bin\Debug\ICA03.exe
+E:\CMPE1666SVN\ICAS\ICA03\ICA03\bin\Debug\ICA03.pdb
+E:\CMPE1666SVN\ICAS\ICA03\ICA03\obj\Debug\ICA03.exe
+E:\CMPE1666SVN\ICAS\ICA03\ICA03\obj\Debug\ICA03.pdb

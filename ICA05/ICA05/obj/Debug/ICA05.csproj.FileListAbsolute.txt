@@ -1,0 +1,11 @@
+C:\Users\marce\Documents\CMPE1666\ICAS\ICA05\ICA05\bin\Debug\ICA05.exe.config
+C:\Users\marce\Documents\CMPE1666\ICAS\ICA05\ICA05\bin\Debug\ICA05.exe
+C:\Users\marce\Documents\CMPE1666\ICAS\ICA05\ICA05\bin\Debug\ICA05.pdb
+C:\Users\marce\Documents\CMPE1666\ICAS\ICA05\ICA05\obj\Debug\ICA05.csproj.AssemblyReference.cache
+C:\Users\marce\Documents\CMPE1666\ICAS\ICA05\ICA05\obj\Debug\ICA05.csproj.SuggestedBindingRedirects.cache
+C:\Users\marce\Documents\CMPE1666\ICAS\ICA05\ICA05\obj\Debug\ICA05.Form1.resources
+C:\Users\marce\Documents\CMPE1666\ICAS\ICA05\ICA05\obj\Debug\ICA05.Properties.Resources.resources
+C:\Users\marce\Documents\CMPE1666\ICAS\ICA05\ICA05\obj\Debug\ICA05.csproj.GenerateResource.cache
+C:\Users\marce\Documents\CMPE1666\ICAS\ICA05\ICA05\obj\Debug\ICA05.csproj.CoreCompileInputs.cache
+C:\Users\marce\Documents\CMPE1666\ICAS\ICA05\ICA05\obj\Debug\ICA05.exe
+C:\Users\marce\Documents\CMPE1666\ICAS\ICA05\ICA05\obj\Debug\ICA05.pdb

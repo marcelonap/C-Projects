@@ -1,0 +1,8 @@
+C:\Users\mnapoleaosampai1\source\repos\ICA01_F\ICA01_F\bin\Debug\ICA01_F.exe.config
+C:\Users\mnapoleaosampai1\source\repos\ICA01_F\ICA01_F\bin\Debug\ICA01_F.exe
+C:\Users\mnapoleaosampai1\source\repos\ICA01_F\ICA01_F\bin\Debug\ICA01_F.pdb
+C:\Users\mnapoleaosampai1\source\repos\ICA01_F\ICA01_F\obj\Debug\ICA01_F.csproj.AssemblyReference.cache
+C:\Users\mnapoleaosampai1\source\repos\ICA01_F\ICA01_F\obj\Debug\ICA01_F.csproj.SuggestedBindingRedirects.cache
+C:\Users\mnapoleaosampai1\source\repos\ICA01_F\ICA01_F\obj\Debug\ICA01_F.csproj.CoreCompileInputs.cache
+C:\Users\mnapoleaosampai1\source\repos\ICA01_F\ICA01_F\obj\Debug\ICA01_F.exe
+C:\Users\mnapoleaosampai1\source\repos\ICA01_F\ICA01_F\obj\Debug\ICA01_F.pdb
